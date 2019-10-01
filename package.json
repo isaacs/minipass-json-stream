@@ -32,5 +32,8 @@
     "parse",
     "minipass",
     "JSONStream"
+  ],
+  "files": [
+    "index.js"
   ]
 }
