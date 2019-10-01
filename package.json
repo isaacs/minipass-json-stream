@@ -21,5 +21,16 @@
   "dependencies": {
     "jsonparse": "^1.3.1",
     "minipass": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/npm/minipass-json-stream.git"
+  },
+  "keywords": [
+    "stream",
+    "json",
+    "parse",
+    "minipass",
+    "JSONStream"
+  ]
 }
