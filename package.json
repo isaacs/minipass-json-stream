@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/npm/minipass-json-stream.git"
+    "url": "git+https://github.com/isaacs/minipass-json-stream.git"
   },
   "keywords": [
     "stream",
