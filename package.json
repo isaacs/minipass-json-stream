@@ -11,9 +11,6 @@
     "postversion": "npm publish",
     "postpublish": "git push origin --follow-tags"
   },
-  "tap": {
-    "check-coverage": true
-  },
   "devDependencies": {
     "JSONStream": "^1.3.5",
     "tap": "^14.6.9"
