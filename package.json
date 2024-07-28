@@ -1,6 +1,6 @@
 {
   "name": "minipass-json-stream",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Like JSONStream, but using Minipass streams",
   "author": "Isaac Z. Schlueter <i@izs.me> (https://izs.me)",
   "license": "MIT",
