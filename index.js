@@ -2,7 +2,7 @@
 'use strict'
 
 const Parser = require('jsonparse')
-const Minipass = require('minipass')
+const { Minipass } = require('minipass')
 
 class JSONStreamError extends Error {
   constructor (err, caller) {
